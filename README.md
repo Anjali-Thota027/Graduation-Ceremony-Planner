@@ -7,16 +7,6 @@ Ceremony schedule planning
 
 Participant list display
 
-How to Run
-Clone or download the project files.
-
-Run the main script:
-
-nginx
-Copy
-Edit
-python planner.py
-Follow the on-screen options to use the planner.
 
 Acknowledgement
 Thanks to my mentor for guidance throughout the project.# Graduation-Ceremony-Planner
